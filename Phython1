@@ -1,0 +1,9 @@
+print ("Hello Welcome to Pill Buddy")
+name = input ("Please enter your name to begin:")
+print ("Great. Its nice to meet you" + name + ",")
+age = input ("Please enter your age:")
+print ("Hello " + name + " ! You are " + age)
+print ("Thank you" + name + ",")
+medication = input ("Please enter your medication")
+print ( "medication has been added successfully")
+
